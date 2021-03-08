@@ -1,0 +1,29 @@
+{
+  "name": "webpack_type",
+  "private": true,
+  "dependencies": {
+    "@babel/preset-react": "^7.12.13",
+    "@rails/actioncable": "^6.0.0",
+    "@rails/activestorage": "^6.0.0",
+    "@rails/ujs": "^6.0.0",
+    "@rails/webpacker": "4.3.0",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.1",
+    "axios": "^0.21.1",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-icons": "^4.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-toastify": "^7.0.3",
+    "styled-components": "^5.2.1",
+    "ts-loader": "^8.0.17",
+    "turbolinks": "^5.2.0",
+    "typescript": "^4.2.3"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.2"
+  }
+}

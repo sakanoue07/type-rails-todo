@@ -1,0 +1,15 @@
+current directory: /Users/user/react/webpack-type/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/Users/user/.rbenv/versions/2.6.3/bin/ruby -I /Users/user/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20210307-48908-lln82w.rb extconf.rb
+creating Makefile
+
+current directory: /Users/user/react/webpack-type/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/user/react/webpack-type/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/user/react/webpack-type/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210307-48908-69epgd/skiptrace/internal

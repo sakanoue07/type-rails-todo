@@ -1,0 +1,16 @@
+current directory: /Users/user/react/webpack-type/vendor/bundle/gems/racc-1.5.2/ext/racc/cparse
+/Users/user/.rbenv/versions/2.6.3/bin/ruby -I /Users/user/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20210307-48908-5j2bc0.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/user/react/webpack-type/vendor/bundle/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/user/react/webpack-type/vendor/bundle/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/user/react/webpack-type/vendor/bundle/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20210307-48908-1necj2o/racc

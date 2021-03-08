@@ -1,0 +1,15 @@
+current directory: /Users/user/react/webpack-type/vendor/bundle/gems/bootsnap-1.7.2/ext/bootsnap
+/Users/user/.rbenv/versions/2.6.3/bin/ruby -I /Users/user/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20210307-48908-13wav.rb extconf.rb
+creating Makefile
+
+current directory: /Users/user/react/webpack-type/vendor/bundle/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/user/react/webpack-type/vendor/bundle/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/user/react/webpack-type/vendor/bundle/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210307-48908-crclnq/bootsnap
